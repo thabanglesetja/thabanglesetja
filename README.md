@@ -1,16 +1,13 @@
-## Hi there 👋
+💻 Computer Science student passionate about backend development, databases, and scalable systems.  
 
-<!--
-**thabanglesetja/thabanglesetja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Skilled in Java, SQL/PLSQL, and web application development, with a growing interest in Data Engineering and modern software systems.
 
-Here are some ideas to get you started:
+🚀 Computer Science Student  
+💻 Backend Development | 🗄️ Databases | ⚡ Scalable Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Java  
+🔹 SQL / PL-SQL  
+🔹 Web Application Development  
+🔹 Exploring Data Engineering
+
+💻 Aspiring Software & Data Engineer  
